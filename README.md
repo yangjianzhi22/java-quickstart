@@ -16,7 +16,7 @@ java快速入门
 > IDE 是复杂的软件应用程序，专门用于软件开发。
 > 这些应用程序自动处理源代码的编译，它们可以帮助您跟踪 Java 代码语法中的错误并确定其执行中的错误等
 
-## [快速入门](/src/quickstart)
+## [快速入门](/pj-quickstart)
 
 - 前提
 
@@ -54,7 +54,7 @@ java MyFirstClass
 
 ## 场景
 
-### [Lambda表达式](/src/lambda)
+### [Lambda表达式](/pj-lambda)
 
 lambda 表达式的类型有一个限制：它必须是函数式接口。函数式接口是只有一个抽象方法的接口
 
