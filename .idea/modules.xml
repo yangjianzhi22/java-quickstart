@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/java-quickstart.iml" filepath="$PROJECT_DIR$/.idea/java-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-quickstart.iml" filepath="$PROJECT_DIR$/java-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pj-collections/pj-collections.iml" filepath="$PROJECT_DIR$/pj-collections/pj-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pj-lambda/pj-lambda.iml" filepath="$PROJECT_DIR$/pj-lambda/pj-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pj-quickstart/pj-quickstart.iml" filepath="$PROJECT_DIR$/pj-quickstart/pj-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pj-stream/pj-stream.iml" filepath="$PROJECT_DIR$/pj-stream/pj-stream.iml" />
     </modules>
   </component>
 </project>
