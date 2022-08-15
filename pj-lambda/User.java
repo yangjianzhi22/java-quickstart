@@ -1,5 +1,3 @@
-package lambda;
-
 public class User {
     private String name;
 
